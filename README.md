@@ -17,6 +17,6 @@ OR
 
 pur this in your config:
 
-"api-listen" : true,
-"api-allow" : "W:127.0.0.1",
-"api-port" : "4028",
+	"api-listen" : true,
+	"api-allow" : "W:127.0.0.1",
+	"api-port" : "4028",
