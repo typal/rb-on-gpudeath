@@ -1,7 +1,7 @@
 Description
 ===========
 
-rb-on-gpudeath aims to check the GPU health through cgminers RPC api.
+rb-on-gpudeath aims to check the GPU health through cgminer RPC api.
 
 This is a Linux port of [waffle_stompers](http://www.reddit.com/u/waffle_stomper) Script from [here](http://www.reddit.com/r/litecoinmining/comments/1ilplj/automatic_reboot_script_for_when_a_card_is/).
 
