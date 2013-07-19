@@ -20,3 +20,6 @@ pur this in your config:
 	"api-listen" : true,
 	"api-allow" : "W:127.0.0.1",
 	"api-port" : "4028",
+
+
+If your rig doesn't reboot because of defunc cgminer, set FORCE_REBOOT to true.
